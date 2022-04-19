@@ -1,4 +1,8 @@
-### Hi there 👋
+### Privet to everybody!
+
+- 🔭 I’m currently working on Nisaba by @Aktion-Sodis - a tool for monitoring and management of 
+projects for development assistance 
+- 📫 How to reach me: arthur.becker.private@gmail.com
 
 <!--
 **arthur-becker/arthur-becker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
