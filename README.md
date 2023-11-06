@@ -1,4 +1,4 @@
-### Privet to everybody!
+### Hello everybody!
 
 - 🔭 I’m currently working on Nisaba by @Aktion-Sodis - a tool for monitoring and management of 
 projects for development assistance 
